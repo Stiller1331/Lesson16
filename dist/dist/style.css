@@ -142,7 +142,7 @@ body {
 }
 
 .first-screen {
-  background-image: url(/img/background.jpg);
+  background-image: url(../../img/background.jpg);
   height: 800px;
   background-size: cover;
   position: relative;
@@ -320,7 +320,7 @@ body {
     left: -10px;
     width: 20px;
     height: 20px;
-    background-image: url("/img/phone.svg");
+    background-image: url("../../img/phone.svg");
     background-size: contain;
   }
 }
@@ -347,7 +347,7 @@ body {
   left: -10px;
   width: 20px;
   height: 20px;
-  background-image: url("/img/phone.svg");
+  background-image: url("../../img/phone.svg");
   background-size: contain;
 }
 
@@ -1269,7 +1269,7 @@ h3 {
   left: -35px;
   width: 25px;
   height: 25px;
-  background-image: url("/img/phone.png");
+  background-image: url("../../img/phone.png");
   background-size: contain;
 }
 
@@ -1303,7 +1303,7 @@ h3 {
   left: -35px;
   width: 25px;
   height: 25px;
-  background-image: url("/img/instagram.png");
+  background-image: url("../../img/instagram.png");
   background-size: contain;
 }
 
@@ -1337,7 +1337,7 @@ h3 {
   left: -35px;
   width: 25px;
   height: 25px;
-  background-image: url("/img/email.png");
+  background-image: url("../../img/email.png");
   background-size: contain;
 }
 
